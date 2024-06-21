@@ -30,7 +30,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "laravel/nova": "^4.0",
-        "orchestra/testbench": "^8.5"
+        "orchestra/testbench": "^8.5|^9.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0"
