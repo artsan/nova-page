@@ -1,5 +1,5 @@
 {
-    "name": "whitecube/nova-page",
+    "name": "artsan/nova-page",
     "description": "Static pages content management for Laravel Nova",
     "license": "MIT",
     "keywords": [
